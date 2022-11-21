@@ -126,7 +126,7 @@ a:focus {
   height: 75px;
   bottom: 20%;
   left: 6%;
-  background-color: #fdd31d;
+  background-color: #ffffff;
 }
 
 
@@ -241,7 +241,7 @@ a:focus {
 }
 
 .common_style img {
-  width: 100%;
+  width: 80%;
 }
 
 
