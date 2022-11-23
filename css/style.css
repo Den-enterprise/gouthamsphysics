@@ -253,7 +253,7 @@ a:focus {
 }
 
 .about_section a {
-  background-color: #6ebca8;
+  background-color: #12AD2B ;
   color: #fefeff;
 }
 
@@ -263,7 +263,7 @@ a:focus {
 
 
 .admission_section a {
-  background-color: #fdd31d;
+  background-color: #12AD2B ;
   color: #fefeff;
 }
 
@@ -276,7 +276,7 @@ a:focus {
 }
 
 .why_section a {
-  background-color: #6ebca8;
+  background-color: #12AD2B ;
   color: #fefeff;
 }
 
@@ -286,7 +286,7 @@ a:focus {
 
 
 .determine_section a {
-  background-color: #fdd31d;
+  background-color: #12AD2B;
   color: #fefeff;
 }
 
@@ -307,7 +307,7 @@ a:focus {
 
 .client_section h5 {
   font-size: 24px;
-  color: #fdd31d;
+  color: #12AD2B ;
 }
 
 .client_section .row {
@@ -327,7 +327,7 @@ a:focus {
   width: 100px;
   height: 30px;
   border-radius: 20px;
-  background-color: #fdd31d;
+  background-color: #12AD2B ;
 }
 
 .client_img-box::before {
@@ -392,7 +392,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #fdd31d;
+  background-color: #12AD2B ;
 }
 
 /* end client section */
@@ -505,7 +505,7 @@ a:focus {
 }
 
 .info_section .form_container button {
-  background-color: #fdd31d;
+  background-color: #12AD2B ;
   border: none;
   outline: none;
   color: #fff;
